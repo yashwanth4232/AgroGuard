@@ -5,6 +5,7 @@ AgroGuard is a machine learning-based crop disease detection system designed to 
 AgroGuard/
 │
 ├── PlantVillage/ # Dataset folder used for training (contains class-wise subfolders)
+
 │
 ├── test_leaf/ # Folder for uploading leaf images to test
 │ └── *.JPG # Add your leaf image(s) here
